@@ -1,5 +1,5 @@
-title: java平台 1.概述
-date: 2016-02-29 17:25:49
+title: Castle开发平台手册
+date: 2016-04-24 12:35:39
 categories: 
 - 架构设计
 tags: 
@@ -7,20 +7,14 @@ tags:
 
 ---
 
-<h2 id="intro">前言</h2>基于servlet3.1的模块化规范，采用spring, spring mvc, jpa, spring data, querydsl, shiro, fastjson, beetl等开源技术，搭建了一套可模块化扩展的java框架，并可选择地使用extjs6、easyui、bootstrap实现了后台管理的公共功能。
+<h2 id="intro">前言</h2>Castle的目标是打造一个高性能、高扩展性的java开发平台，适合于开发各种互联网软件产品。
 <!-- more -->
 
-<div class="github-widget" data-repo="xiangxik/java-platform"></div>
+<div class="github-widget" data-repo="xiangxik/castle"></div>
 
 ## 特点
-* 基于目前最新的一些java技术
-* 采用Java8的语法
-* 自定义模块化，自定义配置
-* 主要模块化的思想是来自于servlet3.1规范的web集成机制
-* 可扩展模块，通过引入jar包来决定是否采用该功能
-* 采用spring javaconfig.达到0spring配置文件
-* 采用querydsl通用查询
-* 包含通用的后台管理功能
+*
+* 可以采用单一服务集成，也可选择地使用第三方服务管理框架（例如dubbo）。
 
 ## 工程用途说明
 * application: 平台包，项目引入该包即可包含了主要功能，依赖于全部关键module包。
