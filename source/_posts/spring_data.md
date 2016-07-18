@@ -7,5 +7,5 @@ tags:
 
 ---
 
-<h2 id="intro">前言</h2>Spring Data 详解。
+Spring Data 详解。
 <!-- more -->

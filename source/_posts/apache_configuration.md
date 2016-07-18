@@ -7,5 +7,5 @@ tags:
 
 ---
 
-<h2 id="intro">前言</h2>Apache Configuration 详解。
+Apache Configuration 详解。
 <!-- more -->

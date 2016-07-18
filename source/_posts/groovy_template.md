@@ -7,5 +7,5 @@ tags:
 
 ---
 
-<h2 id="intro">前言</h2>Groovy Template 详解。
+Groovy Template 详解。
 <!-- more -->
