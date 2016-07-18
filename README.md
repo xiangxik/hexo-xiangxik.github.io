@@ -1,2 +1,1 @@
-# hexo-xiangxik.github.io
-博客的hexo源文件 
+# hexo-xiangxik.github.io 
