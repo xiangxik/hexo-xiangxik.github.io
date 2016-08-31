@@ -1,7 +1,7 @@
 title: Infinispan缓存
 date: 2016-05-08 11:43:13
 categories: 
-- 缓存
+- 工具包
 tags: 
 - java
 

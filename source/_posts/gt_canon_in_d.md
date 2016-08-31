@@ -10,10 +10,10 @@ tags:
 D调卡农
 <!-- more -->
 
-![Alt 1.png](/img/guitar/canon_id_d/1.jpg)
+![Alt 1.jpg](/img/guitar/canon_in_d/1.jpg)
 
-![Alt 2.png](/img/guitar/canon_id_d/2.jpg)
+![Alt 2.jpg](/img/guitar/canon_in_d/2.jpg)
 
-![Alt 3.png](/img/guitar/canon_id_d/3.jpg)
+![Alt 3.jpg](/img/guitar/canon_in_d/3.jpg)
 
-![Alt 4.png](/img/guitar/canon_id_d/4.jpg)
+![Alt 4.jpg](/img/guitar/canon_in_d/4.jpg)

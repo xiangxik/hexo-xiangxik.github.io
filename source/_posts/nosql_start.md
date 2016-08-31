@@ -1,7 +1,9 @@
 title: NoSQL的认识
 date: 2016-05-08 11:43:13
 categories: 
-- NoSQL
+- 数据库
+tags: 
+- nosql
 
 ---
 
